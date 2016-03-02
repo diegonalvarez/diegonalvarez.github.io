@@ -7,7 +7,7 @@ modified: 2016-03-01
 comments: true
 ---
 
-#### From Scratch
+#### From Scratch
 
 I'll try to not assume anything. I think that not assuming is HARD, one always obvius details, but I'm going to try.
 
