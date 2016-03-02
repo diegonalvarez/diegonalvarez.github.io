@@ -7,15 +7,15 @@ modified: 2016-03-01
 comments: true
 ---
 
-#### From Scratch
+### From Scratch
 
 I'll try to not assume anything. I think that not assuming is HARD, one always obvius details, but I'm going to try.
 
-#### Sublime Begins
+### Sublime Begins
 
 Assuming that you have Sublime installed in the last version(yes assuming, that's not a Joke) i will proceed with a few steps or configurations over Sublime with the objective to do your workflow more effective.
 
-#### Control
+### Control
 
 The official website of [Package Control](https://packagecontrol.io/) says:
 
@@ -25,11 +25,11 @@ In this part i think that is no needed to add much more. Install the Package con
 
 When [Package Control](https://packagecontrol.io/) is installed just press SHIFT+CMD+P and is ready to use, you can now used for install all the packages that you need.
 
-#### The powerfull cmd+p
+### The powerfull cmd+p
 
 If you are under a Mac, use cmd if not, use ctrl instead. CMD+P is set by default in Sublime and it I'll help to us find files in any project that we loaded in Sublime. The only thing you need to do is write the path or even better a hint of the file you want to search for and Sublime provides you files that match with your text, very usefull.
 
-#### Shortcuts for everything
+### Shortcuts for everything
 
 These are commands that i used regullarly:
 
@@ -51,7 +51,7 @@ These are commands that i used regullarly:
 - To create a new file type CMD + SHIFT + P and then type NEW FILE.
 
 
-#### Personal Recommendations
+### Personal Recommendations
 
 This tools adapts Sublime for any use, in other post I'll write about plugins that works with PHP workflow.
 
@@ -71,7 +71,7 @@ This tools adapts Sublime for any use, in other post I'll write about plugins th
 - [MarkDown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
     + I use markdown to write, for example this post. With this plugins for example i can see a preview in the browser quickly or set the Syntax Markdown in Sublime, to name a few functions.
 
-#### Install Packages
+### Install Packages
 
 Don't be affraid. Explore [Package Control](https://packagecontrol.io/) there are thousands of packages availables, always remember that someone else already had the problem you are having your now.
 
